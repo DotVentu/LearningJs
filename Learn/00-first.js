@@ -6,7 +6,7 @@
 /*
 variables 
 data types	
-*/
+===============================
 ls = 2
 
 var a = "s" // strings
@@ -30,4 +30,9 @@ let big0 = 22222222222222222222222222222222n
 console.log("hi", hi)
 //data type
 console.log(typeof nu) // null is object
+*/
+
+/*
+operators
+*/
 
