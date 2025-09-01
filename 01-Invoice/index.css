@@ -1,0 +1,27 @@
+* {
+    color-scheme: dark;
+    font-family: monospace;
+}
+
+input {
+    border-radius: 9rem;
+    border: none;
+    padding: 10 25 11 5;
+    outline: none;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 2fr; 
+    grid-template-rows: auto; 
+}
+
+.main-content {
+    padding: 0 0 0 35;
+}
+
+.sidebar {
+    padding: 0 0 0 20;
+    margin: 0 10 -500 0;
+    border: 1px solid white ;
+}
